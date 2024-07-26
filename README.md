@@ -3,11 +3,11 @@ Voici le fichier README mis à jour, avec encore plus de codes :
 
 # HANS TECH/Harold Mth
 
-## <span style="color:#008000">Welcome to my portfolio!</span> 🚀
+## <span style="color:#008000">Welcome to my repository!</span> 🚀
 
 ### <h3>Description</h3>
 
-This is the portfolio of HANS TECH/Harold Mth, where I showcase my projects and skills in web development.
+This is the portfolio of HANS TECH / Harold Mth, where I showcase my projects and skills in web development.
 
 ### <h3>Technologies used</h3>
 
@@ -29,9 +29,9 @@ This is the portfolio of HANS TECH/Harold Mth, where I showcase my projects and 
 ### <h3>Contact</h3>
 
 <ul>
-  <li>Phone: <a href="tel:+237696900612">+237 696 900 612</a></li>
-  <li>YouTube: <a href="(link unavailable)">Hans Tech</a></li>
-  <li>Telegram Channel: <a href="(link unavailable)">Hans Tech</a></li>
+  <li>WhatsApp: <a href="(Https://wa.me/+237696900612)">Hans Tech</a></li>
+  <li>YouTube: <a href="(Https://Youtube.com/HansTech0)">Hans Tech</a></li>
+  <li>Telegram Channel: <a href="(Https://t.me/HansTech0)">Hans Tech</a></li>
   <li>Telegram Contact: <a href="(link unavailable)">Hans Tech</a></li>
 </ul>
 
@@ -41,11 +41,11 @@ This project is licensed under the MIT License.
 
 ### <h3>Author</h3>
 
-<a href="#">HANS TECH/Harold Mth</a>
+<a href="#">HANS TECH / Harold Mth</a>
 
 ### <h3>Acknowledgments</h3>
 
-Thanks to everyone who has helped and inspired me in this project! 🙏
+Thanks to everyone who has helped and inspired me in my projects! 🙏
 
 
 <!---
