@@ -29,7 +29,7 @@ This is the portfolio of HANS TECH / Harold Mth, where I showcase my projects an
 ### <h3>Contact</h3>
 
 <ul>
-  <li>WhatsApp: <a href="(Https://wa.me/+237696900612)">Hans Tech</a></li>
+  <li>WhatsApp: <a href="[Hans tech](Https://wa.me/+237696900612)">Hans Tech</a></li>
   <li>YouTube: <a href="(Https://Youtube.com/HansTech0)">Hans Tech</a></li>
   <li>Telegram Channel: <a href="(Https://t.me/HansTech0)">Hans Tech</a></li>
   <li>Telegram Contact: <a href="(link unavailable)">Hans Tech</a></li>
